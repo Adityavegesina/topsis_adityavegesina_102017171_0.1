@@ -20,7 +20,7 @@ setup(
   author = 'Aditya Vegesina',                   # Type in your name
   author_email = 'adityavegesina@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Adityavegesina/topsis_adityavegesina_102017171_0.1',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Dik17/topsis_diksharani_102016116_1.1.0/archive/refs/tags/v_05.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Adityavegesina/topsis_adityavegesina_102017171_0.1/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', '102017171', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
          'pandas',
